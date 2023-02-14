@@ -21,9 +21,7 @@ Try to achieve the design as close as possible.
 Resources
 Use this background image,
 
-
-
-[URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png)
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png
 
 
 
