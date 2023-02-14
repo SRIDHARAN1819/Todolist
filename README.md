@@ -21,7 +21,8 @@ Try to achieve the design as close as possible.
 Resources
 Use this background image,
 
-https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png
+![image](https://user-images.githubusercontent.com/82379566/218643447-31fe5e2a-a807-4ee8-9df5-eb6fe6dfb2dc.png)
+
 
 
 
